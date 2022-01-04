@@ -1,0 +1,28 @@
+
+.TitleHeading {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: red;
+}
+
+.Heading {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+
+.Info {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+
+.Links {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+
+.Footer {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: royalblue;
+    color: black;
+}
+
+
