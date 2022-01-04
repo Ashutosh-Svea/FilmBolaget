@@ -1,28 +1,44 @@
 
+body {
+    background-color: black;
+  }
+
+  a {
+      color:white;
+  }
+
 .TitleHeading {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: red;
+    text-align: center;
 }
 
 .Heading {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: black;
+    color: white;
+    text-align: center;
+
 }
 
 .Info {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: black;
+    color: white;
+    text-align: center;
+
 }
 
 .Links {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: black;
+    color: white;
+    text-align: center;
+
 }
 
-.Footer {
+footer {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: royalblue;
-    color: black;
+    background-color: grey;
+    height: 50px;
+    color: white;
+    text-align: right;
+    padding-top:7%;
 }
-
-
